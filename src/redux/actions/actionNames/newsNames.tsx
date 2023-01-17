@@ -1,0 +1,2 @@
+export const NEWS_ATTEMPT = 'NEWS_ATTEMPT';
+export const NEWS_SUCCESSFUL = 'NEWS_SUCCESSFUL';
