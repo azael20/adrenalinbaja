@@ -5,7 +5,7 @@
 AdrenalinBaja is a mobile application developed in React Native that allows you to stay updated on the latest offroad races taking place in the Baja California region, Mexico. With this application, offroad racing enthusiasts can easily access up-to-date information about events, dates, locations, and much more.
 
 ## Screenshot
-
+![](./src/assets/home.png) ![](./src/assets/news.png) ![](./src/assets/login.png)
 
 ## Features
 
