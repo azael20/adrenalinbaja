@@ -9,13 +9,13 @@ AdrenalinBaja is a mobile application developed in React Native that allows you 
 
 ## Features
 
-- **Noticias de Carreras:** Visualiza una lista de las noticias acerca de las carreras de offroad en Baja California.
+- **Race News:** View a list of news about offroad races in Baja California.
 
-- **Detalles de Noticias:** Accede a detalles específicos de cada noticia y más.
+- **News Details:** Access specific details of each news article and more.
 
-- **Tracking:** Explora las ubicaciones de los pilotos en tiempo real durante una carrera.
+- **Tracking:** Explore the real-time locations of the drivers during a race.
 
-- **Registro e inicio de sesión:** Sistema de registro e inicio de sesión.
+- **Sign up and Login:** Sign up and login system.
 
 ## Instalation
 
