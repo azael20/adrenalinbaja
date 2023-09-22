@@ -17,7 +17,7 @@ AdrenalinBaja is a mobile application developed in React Native that allows you 
 
 - **Sign up and Login:** Sign up and login system.
 
-## Instalation
+## Installation
 
 Make sure you have React Native and Yarn on your machine:
 1. Start your emulator or android device
